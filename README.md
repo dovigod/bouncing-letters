@@ -1,2 +1,5 @@
 # bouncing-letters
-bouncing letters for interactive design
+bouncing letters with vanila javascript
+
+
+
